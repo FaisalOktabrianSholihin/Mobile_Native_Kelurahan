@@ -109,7 +109,7 @@ public class Home extends AppCompatActivity {
             public void onClick(View v) {
 
                 dialog.dismiss();
-                Toast.makeText(Home.this,"Anda telah pengajuan surat",Toast.LENGTH_SHORT).show();
+                Toast.makeText(Home.this,"Anda telah pengajua surat",Toast.LENGTH_SHORT).show();
 
             }
         });
